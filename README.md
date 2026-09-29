@@ -17,7 +17,6 @@ Computer Engineering Student · Freelance Software Developer
 - 💻 Currently working as a Freelance Software Developer
 - 🏗️ Interested in backend development, APIs and software architecture
 - 🛡️ Member of the UCN Cybersecurity Academy
-- 🧠 Member of the UCN Competitive Programming Academy
 
 ### 🛠️ Tech Stack
 
