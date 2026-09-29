@@ -77,11 +77,6 @@ Currently developing a private administrative management platform as part of my 
 
 > Source code and client data are private.
 
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=BenjaminCuello&show_icons=true&hide_border=true&theme=github_dark" />
-</p>
 
 ### 📫 Connect with Me
 
